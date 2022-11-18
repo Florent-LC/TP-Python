@@ -1,0 +1,3 @@
+une centrale nucleaire dispose de 3 circuits de refroidissement
+le circuit primaire sert directement à refroidir les crayons de combustible le second utilise la chaleur générée par le premier afin de créer de la vapeur d'eau à haute pression et faire tourner les turbines qui serviront à produire l'électricité
+enfin un troisième vient refroidir la vapeur du deuxième afin la transformer en liquide l'eau du troisième circuit provient généralement d'une source d'eau naturelle comme un fleuve ou l'océan
